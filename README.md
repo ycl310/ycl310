@@ -2,7 +2,7 @@
 
 ---
 ## Bio
-![](https://img.shields.io/badge/Python?style=plastic&logo=python)
+![](https://img.shields.io/badge/Code-Python-darked?style=plastic&logo=python)
 
 
 ## Github Stats
