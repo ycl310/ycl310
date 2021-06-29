@@ -5,4 +5,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycl310)
 
 ## Dsc Profile
-![Discord](https://discord.c99.nl/widget/theme-1/lyc#8611.png)
+![Discord](https://discord.c99.nl/widget/theme-1/726514422360703008.png)
