@@ -2,6 +2,8 @@
 
 ---
 ## Bio
+[](https://img.shields.io/badge/Code-Python-bright?&logo=python)
+
 
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=ycl310&show_icons=true) <br>
